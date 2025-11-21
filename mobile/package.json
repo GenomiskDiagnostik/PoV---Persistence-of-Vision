@@ -1,0 +1,21 @@
+{
+  "name": "expo-android-template",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "web": "expo start --web",
+    "build:android:preview": "eas build --platform android --profile preview --non-interactive"
+  },
+  "dependencies": {
+    "expo": "~54.0.25",
+    "expo-status-bar": "~3.0.8",
+    "react": "19.1.0",
+    "react-native": "0.81.5"
+  },
+  "devDependencies": {
+    "eas-cli": "~16.28.0"
+  }
+}

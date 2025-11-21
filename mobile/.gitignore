@@ -1,0 +1,12 @@
+node_modules
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
+.expo
+.expo-shared
+web-build
+.expo-env.local
+.DS_Store
+.idea
+*.iml
+*.log
