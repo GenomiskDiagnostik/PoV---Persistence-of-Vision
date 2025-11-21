@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "TEMPLATE_APP_NAME_CHANGE_ME",
-    "slug": "template-slug-change-me",
-    "owner": "YOUR_EXPO_USERNAME_CHANGE_ME",
+    "name": "Persistence of Vision",
+    "slug": "persistence-of-vision",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -14,14 +13,14 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "dk.example.templateapp.change_me"
+      "package": "com.example.persistenceofvision"
     },
     "web": {
       "bundler": "metro",
       "output": "static"
     },
     "extra": {
-      "templateNote": "Replace CHANGE_ME values before releasing."
+      "templateNote": "Persistence of Vision demo app"
     }
   }
 }
