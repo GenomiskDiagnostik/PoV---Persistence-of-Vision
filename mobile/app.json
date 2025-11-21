@@ -13,13 +13,16 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.example.persistenceofvision"
+      "package": "com.themadscientist.persistenceofvision"
     },
     "web": {
       "bundler": "metro",
       "output": "static"
     },
     "extra": {
+      "eas": {
+        "projectId": "e20edd0c-b4a5-45b2-ab26-b2c25002856f"
+      },
       "templateNote": "Persistence of Vision demo app"
     }
   }
